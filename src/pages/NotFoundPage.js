@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 export function NotFoundPage() {
   return (
     <div className="text-center">
-      <h1>404 - There isnt such a page!</h1>
+      <h1>404 - Error Page!</h1>
       <h4>This is not the page you are looking for.</h4>
       <div className="mt-4">
         <Link to="/" className="btn btn-primary btn-lg" role="button">
