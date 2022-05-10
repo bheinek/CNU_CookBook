@@ -4,6 +4,7 @@ export function Header() {
   return (
     <Navbar color="dark" dark>
       <Container>
+        <p>this is header</p>
         <h1>Welcome in the new feature header</h1>
         <NavbarBrand href="/">Cookbook</NavbarBrand>
       </Container>
